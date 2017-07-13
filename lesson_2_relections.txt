@@ -1,3 +1,7 @@
 1. What happens when you initialise a repository? Why do you need to do it?
 
 You need to create a repository to so git has access to your working folder.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows you to upload files individually to it from your working directory which are then grouped together and can be committed together to the repository.
