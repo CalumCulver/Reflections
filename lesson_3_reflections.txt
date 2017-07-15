@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Remote respositories enable you to work remotely and share your work with other people which in turn means you can then collaborate on projects.
+
+They also mean that your work is safely backed up should any of your hardware break.
